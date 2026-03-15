@@ -53,7 +53,7 @@ Key transformations performed include:
 
 ## SQL Query
 The main query used for the analysis can be found in:
-/sql/kf_analytics.sql
+kf_analytics.sql
 
 ## Key Output Columns
 The final analysis table contains:
