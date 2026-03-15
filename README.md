@@ -50,3 +50,27 @@ Key transformations performed include:
 - Calculating net sales after discount
 - Determining gross profit percentage based on price tiers
 - Calculating net profit for each transaction
+
+## SQL Query
+The main query used for the analysis can be found in:
+/sql/kf_analytics.sql
+
+## Key Output Columns
+The final analysis table contains:
+
+- transaction_id
+- date
+- branch_id
+- branch_name
+- kota
+- provinsi
+- rating_cabang
+- customer_name
+- product_id
+- product_name
+- actual_price
+- discount_percentage
+- persentase_gross_laba
+- net_sales
+- net_profit
+- rating_transaksi
